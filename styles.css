@@ -6,3 +6,7 @@ body {
   direction: ltr;
   text-align: left;
 }
+
+h1 {
+  font-size: 3rem;
+}
